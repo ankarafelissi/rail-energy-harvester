@@ -49,15 +49,15 @@ An engineering project exploring how railway vibration can power low-energy devi
 
 <table>
   <tr>
-    <th width="50%">Structural model</th>
+    <th width="50%">Parameter responses</th>
     <th width="50%">Structural response</th>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="assets/readme/structural-model.svg" width="360" height="238" alt="Cantilever geometry in the structural simulation"></td>
+    <td align="center" valign="middle"><a href="assets/report-load-acceleration-frequency-responses.png"><img src="assets/readme/parameter-responses.svg" width="360" height="238" alt="Load, acceleration and frequency response plots from the design report"></a></td>
     <td align="center" valign="middle"><img src="assets/readme/structural-response.svg" width="360" height="238" alt="Cantilever response contour from the team report"></td>
   </tr>
   <tr>
-    <td align="center">Cantilever geometry and boundary setup</td>
+    <td align="center">Load, acceleration and frequency plots</td>
     <td align="center">Response contour from the team report</td>
   </tr>
 </table>
